@@ -92,7 +92,7 @@ const Home = () => {
                    <Share2 size={16} />
                  </button>
                </div>
-               <Link to="/blog/4"  className="text-blue-500">Read More</Link>
+               <Link to="/blog/4"  target="_blank" className="text-blue-500">Read More</Link>
             </div>
            </div>
            </div>
