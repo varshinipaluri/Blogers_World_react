@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 import { Card, CardContent } from "./ui/card";
 import { Button } from "./ui/button";
@@ -10,14 +9,14 @@ const blogsByCategory = {
     {
       title: "The Evolution of Modern Art",
       content: "Modern art has evolved significantly over the years, with many movements influencing its direction...",
-      image: "https://api.deepai.org/job-view-file/34ece7a8-13de-4d04-82dc-1f7e17d91244/outputs/output.jpg",
+      image: "https://th.bing.com/th?id=OSK.u8JBQKtBSBMNmEaHYa43F-qGqyCmqBnH79dEuqfhgdw&w=224&h=200&c=12&rs=1&o=6&pid=SANGAM",
       views: 234,
       likes: 124,
     },
     {
       title: "Exploring the World of Abstract Art",
       content: "Abstract art has no boundaries and embraces freedom of expression...",
-      image: "https://api.deepai.org/job-view-file/cf4de2c5-839b-402b-90b7-eff13f63b56f/outputs/output.jpg",
+      image: "https://th.bing.com/th/id/OIP.wRNpBdQuaIGBsjcO8u4t9gHaHa?w=174&h=180&c=7&r=0&o=5&pid=1.7",
       views: 180,
       likes: 98,
     },
