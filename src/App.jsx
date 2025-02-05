@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import CategoryPage from "./pages/CategoryPage";
 
 import BlogDetail from './components/BlogDetail'; 
+import AddBlog from "./pages/AddBlog";
 
 const App = () => (
   <Router>
@@ -12,6 +13,7 @@ const App = () => (
       <Route path="/" element={<Home />} />
       <Route path="/category/:category" element={<CategoryPage />} />
       <Route path="/blog/:id" element={<BlogDetail />} />
+      <Route path="/addblog" element={<AddBlog/>}/>
     </Routes>
   </Router>
 );
