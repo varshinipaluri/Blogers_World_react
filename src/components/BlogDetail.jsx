@@ -25,7 +25,7 @@ const BlogDetail = () => {
     3: {
       title: "Health and Wellness",
       content: "Tips on maintaining physical and mental health through mindful living and exercise. It's important to strike a balance between body and mind...",
-      image: "https://api.deepai.org/job-view-file/10aabdba-85f2-4280-9615-354c6b2be787/outputs/output.jpg",
+      image: "https://th.bing.com/th/id/OIP.p05fkUSoAv8Q44OYbEaGsAHaHa?w=160&h=180&c=7&r=0&o=5&pid=1.7",
       views: 410,
       likes: 230,
       extraContent: "Learn about the various exercises and mental health techniques that can help you achieve a better work-life balance and holistic well-being."
@@ -33,7 +33,7 @@ const BlogDetail = () => {
     4: {
       title: "Business Trends",
       content: "Insights into the latest trends in the business world and tips for aspiring entrepreneurs. The business world is constantly evolving with new trends...",
-      image: "https://api.deepai.org/job-view-file/cf551df3-faa4-452b-8f59-de3864dba941/outputs/output.jpg",
+      image: "https://th.bing.com/th/id/OIP.cPYP4UOub0tBl7YmVAQI_gHaE8?w=284&h=189&c=7&r=0&o=5&pid=1.7",
       views: 320,
       likes: 180,
       extraContent: "This section will cover important trends like sustainability in business, remote work, and the rise of social entrepreneurship."
