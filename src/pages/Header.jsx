@@ -16,6 +16,10 @@ const Header = () => (
         <Link to="/category/food" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-400">Food</Link>
         <Link to="/category/travel" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-400">Travel</Link>
       </div>
+
+      <div className="mt-8 flex justify-center">
+        <Link to="/addblog" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-400">Add Blog</Link>
+      </div>
     </div>
   </div>
 );
